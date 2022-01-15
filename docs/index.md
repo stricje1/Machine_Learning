@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jeff Strickland's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/stricje1/Machine_Learning/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,7 +25,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### Author Links
 
+My Amazon Author Page [Link](https://www.amazon.com/Jeffrey-Strickland/e/B00IQ69QZK)
+My Lulu Author Page [Link](https://www.lulu.com/spotlight/strickland_jeffrey)
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
